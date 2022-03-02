@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyankadec (Priyanka Yadav) as a Full stack Developer.
+- 👋 Hi, I’m @Priyankadec16 (Priyanka Yadav) as a Full stack Developer.
 - 👀 I’m interested in Developing Website (Front End and Backend Development) Or Digital Marketing.
 - 🌱 I’m currently learning new Technologies.
 - 💞️ I’m looking to collaborate on Long Term Relatonship with Project Management.
